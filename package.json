@@ -63,7 +63,7 @@
     "shortbus": "^1.0.6",
     "snazzy": "3.0.0",
     "standard": "6.0.8",
-    "tape": "4.6.0",
+    "tape": "4.13.3",
     "through2": "2.0.1",
     "uglify-js": "2.6.4",
     "watchify": "3.7.0"
